@@ -115,13 +115,13 @@ https://nl.utako.moe/js2/index.m3u8
 https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-4_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",グリーンチャンネル
+#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル_jp" tvg-logo="https://sp.gch.jp/image/banners/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.png",グリーンチャンネル
 https://nl.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="アニマックス_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",アニマックス
 https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",日本映画専門チャンネル
 https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="スカイA_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",スカイA
+#EXTINF:-1 group-title="BS" tvg-id="スカイA_jp" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",スカイA
 https://nl.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK・BS (Primehome)
@@ -169,21 +169,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="J-COM-BS_jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
-#EXTINF:-1 group-title="CS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+#EXTINF:-1 group-title="CS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/1200px-GAORA_SPORTS_logo.svg.png",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",アニメシアター(AT-X)
 https://nl.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",スペースシャワーTV
 https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="MTV_jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+#EXTINF:-1 group-title="CS" tvg-id="MTV_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg",MTV
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",歌謡ポップスチャンネル
+#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://pbs.twimg.com/profile_images/849074387303247873/lBnfq2_Y.jpg",歌謡ポップスチャンネル
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="キッズステーション_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",ディズニー・チャンネル
+#EXTINF:-1 group-title="CS" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/tv_dc_logo_2a392203.png",ディズニー・チャンネル
 https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",カートゥーン-ネットワーク
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",カートゥーン-ネットワーク
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="日テレジータス_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",日テレジータス
 https://nl.utako.moe/ntvgplus/index.m3u8
@@ -276,21 +276,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="CS" tvg-id="キッズステーション_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", カートゥーン-ネットワーク (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", カートゥーン-ネットワーク (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="CS" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", ナショナル-ジオグラフィック (Primehome) 
+#EXTINF:-1 group-title="CS" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://newtecjapan.com/wp/wp-content/themes/newtecjapan/natgeo/img/h1.png", ナショナル-ジオグラフィック (Primehome) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="ディズニージュニア_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="CS" tvg-id="ディスカバリーチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", ディスカバリーチャンネル (Primehome)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="CS" tvg-id="アニマルプラネット_jp" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", アニマルプラネット (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="アニマルプラネット_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png", アニマルプラネット (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-#EXTINF:-1 group-title="CS" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", ヒストリーチャンネル (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png", ヒストリーチャンネル (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 group-title="CS" tvg-id="CNNj_jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome) 
+#EXTINF:-1 group-title="CS" tvg-id="CNNj_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/1200px-CNNj_channel_logo.svg.png", CNNj (Primehome) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="CS" tvg-id="BBCニュース_jp" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBCニュース (Primehome)  
+#EXTINF:-1 group-title="CS" tvg-id="BBCニュース_jp" tvg-logo="https://www.bbcworldnews-japan.com/wp-content/uploads/2023/04/BBC_News_Stacked_Black_Core_Colour_RGB_HR.png", BBCニュース (Primehome)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="TBS-NEWS_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS NEWS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
