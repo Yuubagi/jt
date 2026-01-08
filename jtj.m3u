@@ -154,13 +154,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-4_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",グリーンチャンネル (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル_jp" tvg-logo="https://sp.gch.jp/image/banners/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.png",グリーンチャンネル (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="BS" tvg-id="アニマックス_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",アニマックス (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",日本映画専門チャンネル (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="BS" tvg-id="スカイA_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",スカイA (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="スカイA_jp" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",スカイA (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 group-title="BS" tvg-id="釣りビジョン_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
